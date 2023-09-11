@@ -1,0 +1,5 @@
+manufacture,serialNumber,year,city,fuel,model,seats,pricePerDay,carClass
+BMV,39-39-51,2020,Haifa,Petrol,M5,4,50,C
+BMV,39-39-52,2020,Haifa,Petrol,M6,4,60,C
+BMV,39-39-53,2020,Haifa,Petrol,M7,4,65,C
+BMV,39-39-54,2020,Haifa,Petrol,M8,4,70,C
